@@ -29,7 +29,7 @@ export default {
   name: 'App',
   data(){
     return{
-      weather_api:"96a70247d4844b5786ee94795314e09d",
+      weather_api: /*INSERT API KEY*/,
       basePath:"https://api.openweathermap.org/data/2.5/",
       query:"",
       weather:{}
